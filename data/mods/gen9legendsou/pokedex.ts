@@ -9,7 +9,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	raichumegax: {
 		inherit: true,
-		abilities: { 0: "Huge Power" },
+		abilities: { 0: "Levitate" },
 	},
 	raichumegay: {
 		inherit: true,
