@@ -1563,7 +1563,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		types: ["Psychic"],
 		genderRatio: { M: 0.75, F: 0.25 },
 		baseStats: { hp: 25, atk: 20, def: 15, spa: 105, spd: 55, spe: 90 },
-		abilities: { 0: "Synchronize", 1: "Inner Focus", H: "Magic Guard" },
+		abilities: { 0: "Synchronize", 1: "Huge Power", H: "Magic Guard" },
 		heightm: 0.9,
 		weightkg: 19.5,
 		color: "Brown",
