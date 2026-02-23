@@ -1,6 +1,7 @@
 export const Formats: FormatList = [
 	{
-		section: "KDL",
+		section: "Draft",
+		column: 1,
 	},
 	{
 		name: "[ZA] NatDex Draft",
