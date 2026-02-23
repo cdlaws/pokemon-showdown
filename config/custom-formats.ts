@@ -1,5 +1,5 @@
 export const Formats: FormatList = [
-{
+	{
 		section: "KDL",
 	},
 	{
