@@ -399,7 +399,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		column: 1,
 	},
 	{
-		name: "ZA NatDex Draft",
+		name: "[Gen 9] ZA NatDex Draft",
 		mod: 'gen9legendsou',
 		searchShow: false,
 		teraPreviewDefault: true,
